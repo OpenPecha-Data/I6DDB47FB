@@ -1,0 +1,39 @@
+id: a0508f745f7d4f4ea0467a729af4c09c
+annotation_type: index
+revision: '00001'
+annotations:
+  0322f55c85d446d6bf30b64895288fb1:
+    base: FADA.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 7
+    - title: Preface
+      span:
+        start: 8
+        end: 24
+    - title: Chapter 1
+      span:
+        start: 25
+        end: 2395
+    - title: Chapter 2
+      span:
+        start: 2396
+        end: 4845
+    - title: Chapter 3
+      span:
+        start: 4846
+        end: 7281
+    - title: Chapter 4
+      span:
+        start: 7282
+        end: 9789
+    - title: Chapter 5
+      span:
+        start: 9790
+        end: 12526
+    - title: Colophon
+      span:
+        start: 12527
+        end: 12534

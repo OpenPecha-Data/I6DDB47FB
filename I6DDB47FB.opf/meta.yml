@@ -1,0 +1,16 @@
+id: I6DDB47FB
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:32:19.301785
+last_modified: 2023-02-10 00:32:19.301904
+source_metadata:
+  title: 'Nāgārjuna: Ratnāvalī'
+  language: zh
+bases:
+  FADA:
+    base_file: FADA.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
